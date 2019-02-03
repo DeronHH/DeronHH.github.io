@@ -1,3 +1,27 @@
-h1 {
-	color: red;
+.content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
 }
+
+h1 {
+	color: #c3cf21;
+}
+
+h3 {
+	color: #2c2b34;
+}
+
+#text{
+	color: #2c2b34;
+}
+
+#footer {
+	color: #2c2b34;
+	font-weight: bold;
+}
+
+a {
+	color: #c3cf21;
+}
+
