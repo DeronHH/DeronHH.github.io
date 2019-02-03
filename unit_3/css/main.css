@@ -2,18 +2,26 @@
   max-width: 500px;
   margin: auto;
   text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#image {
+	padding: 20px;
 }
 
 #slogan {
 	color: #c3cf21;
+	font-weight: bold;
+	font-size: 36px;
 }
 
 h3 {
 	color: #2c2b34;
 }
-
-#text{
-	color: #2c2b34;
+	
+#list {
+    color: #2c2b34;
+    font-style: italic;
 }
 
 #footer {
