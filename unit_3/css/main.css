@@ -2,34 +2,43 @@
   max-width: 500px;
   margin: auto;
   text-align: center;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 #image {
 	padding: 20px;
 }
 
-#slogan {
+h1 {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 300;
+	font-size: 2.5em;
 	color: #c3cf21;
-	font-weight: bold;
-	font-size: 36px;
+
 }
 
 h3 {
+	font-family: utopia-std, serif;
+	font-weight: 700;
+	font-size: 1em;	
 	color: #2c2b34;
 }
 	
 #list {
-    color: #2c2b34;
+    font-family: utopia-std, serif;
+    font-weight: 400;
     font-style: italic;
+    color: #2c2b34;
 }
 
-#footer {
+p {
+
+	font-family: utopia-std, serif;
+	font-weight: 400;
 	color: #2c2b34;
-	font-weight: bold;
 }
 
 a {
+	font-family: utopia-std, serif;
+	font-weight: 700;
 	color: #c3cf21;
-}
 
